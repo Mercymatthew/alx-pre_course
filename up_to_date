@@ -1,0 +1,4 @@
+pwd
+git checkout main
+touch up_to-date
+ls
